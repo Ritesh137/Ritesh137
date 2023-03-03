@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritesh137
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me riteshanjana303@gmail.com
 
